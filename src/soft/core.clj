@@ -163,4 +163,4 @@
   (doseq [c cases]
     (render-file {:cases cases} c)))
 
-(main "/Users/niquola/sql-on-fhir-2/input/tests")
+(main "sql-on-fhir-v2/input/tests")
